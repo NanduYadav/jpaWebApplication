@@ -28,4 +28,4 @@ nbdist/
 classes
 
 ### Exclude logs ###
-logs
+logs/
