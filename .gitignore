@@ -24,5 +24,8 @@ dist/
 nbdist/
 .nb-gradle/
 
+### Exclude classes ###
+classes
+
 ### Exclude logs ###
- logs
+logs
