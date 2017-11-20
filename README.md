@@ -1,3 +1,3 @@
 # jpaWebApplication
-Spring boot Web Application with JPA and log configuration
-This can be used for the Spring boot application with Gradle Build which has MySQL configured with JPA hibernate.
+Spring boot Web Application with JPA-hibernate and logback configuration
+This can be used for the reference of JPA-hibernate and logging configuration.
